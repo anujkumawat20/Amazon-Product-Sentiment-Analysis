@@ -201,7 +201,7 @@ The SQL file contains business queries covering:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/dashboard_dark.png)
+![Dashboard](dashboard_dark.png)
 
 ---
 
