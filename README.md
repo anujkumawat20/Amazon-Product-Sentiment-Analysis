@@ -65,7 +65,6 @@ Amazon-Product-Sentiment-Analysis/
 │   └── dashboard_dark.png
 │
 ├── README.md
-├── requirements.txt
 └── LICENSE
 ```
 
@@ -202,13 +201,7 @@ The SQL file contains business queries covering:
 
 ## 📷 Dashboard Preview
 
-Add your dashboard screenshots here.
-
-Example:
-
-```
-dashboard_dark.png
-```
+![Dashboard](images/dashboard_dark.png)
 
 ---
 
