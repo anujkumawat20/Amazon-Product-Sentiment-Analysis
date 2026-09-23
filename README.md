@@ -199,7 +199,7 @@ The SQL file contains business queries covering:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/dashboard_dark.png)
+(images/dashboard_dark.png)
 
 Full interactive dashboard: [Google Drive Link](https://drive.google.com/drive/folders/1ghquX-BkZj8R9THoYxQ3LAdFjpJpt15G?usp=sharing)
 
